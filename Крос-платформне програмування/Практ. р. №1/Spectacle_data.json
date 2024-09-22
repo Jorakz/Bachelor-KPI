@@ -1,0 +1,7 @@
+[
+ {"ID": 4, "Name": 'DREAMS COME TO LIFE', "Author": 'George Bondar', "Theatre": 'Academic Theater of Les Kurbas', "Performance date": 'Sun Apr 02 00:00:00 EEST 2023', "Quantity of acts": 3, "Ticket price": 300.0, "Music": true },
+ {"ID": 5, "Name": 'IMITATION', "Author": 'Vasyl Rudenko', "Theatre": 'Theater 19', "Performance date": 'Thu Dec 12 00:00:00 EET 2024', "Quantity of acts": 3, "Ticket price": 300.0, "Music": true },
+ {"ID": 3, "Name": 'OVERCOAT', "Author": 'Maksym Oliynyk', "Theatre": 'Theater of Taras Shevchenko', "Performance date": 'Fri Jun 02 00:00:00 EEST 2023', "Quantity of acts": 5, "Ticket price": 250.0, "Music": false },
+ {"ID": 2, "Name": 'SOICHINA WING', "Author": 'Andriy Boyko', "Theatre": 'Theater on Podil', "Performance date": 'Mon Nov 05 00:00:00 EET 2012', "Quantity of acts": 2, "Ticket price": 140.5, "Music": false },
+ {"ID": 1, "Name": 'SORCERY POTION', "Author": 'Oleksandr Melnyk', "Theatre": 'Theater on Podil', "Performance date": 'Sat Dec 03 00:00:00 EET 2022', "Quantity of acts": 4, "Ticket price": 200.0, "Music": true }
+]

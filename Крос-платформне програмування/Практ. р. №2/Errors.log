@@ -1,0 +1,8 @@
+2023-04-17T14:48:35.515310200 - READING DATAS FROM FILE 'C:\Users\Joran\IdeaProjects\WORK_2\src\main\java\com\example\work_2\Spectacle_data.csv'
+2023-04-17T14:50:08.599497300 - INCORRECT PRICE OF TICKET: MUST BE A NUMBER
+2023-04-17T14:51:40.878699300 - SEARCH FOR 'Oleksandr_Melnyk' IN CASE 'Performance_Date'
+2023-04-17T14:51:42.374686 - SEARCH FOR 'Oleksandr_Melnyk' IN CASE 'Author'
+2023-04-17T14:53:29.252816900 - CHANGE ITEM FROM {{ID: 1, Name: SORCERY_POTION, Author: Oleksandr_Melnyk, Theatre: Theater_on_Podil, Performance date: Sat Dec 03 00:00:00 EET 2022, Quantity of acts: 4, Ticket price: 100.0, Music: true}
+} TO {{ID: 1, Name: SORCERY_POTION, Author: Oleksandr_Melnyk, Theatre: Theater_on_Podil, Performance date: Sat Dec 03 00:00:00 EET 2022, Quantity of acts: 4, Ticket price: 100.0, Music: true}
+}
+2023-04-17T14:55:10.968581 - SAVE DATA IN JSON FILE 'C:\Users\Joran\IdeaProjects\WORK_2\src\main\java\com\example\work_2\Spectacle_data.json'

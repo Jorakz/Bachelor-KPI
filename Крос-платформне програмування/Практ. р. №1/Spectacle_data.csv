@@ -1,0 +1,9 @@
+Name,Author,Theatre,Performance_Date,Quantity_of_acts,Ticket_price,Music
+SORCERY POTION,Oleksandr Melnyk,Theater on Podil,03/12/2022,4,200,True
+SOICHINA WING,Andriy Boyko,Theater on Podil,05/11/2012,2,140.50,False
+SNOW IN APRIL,Taras Kravchenko,10/10/2023,4,150.75,True
+OVERCOAT,Maksym Oliynyk,Theater of Taras Shevchenko,02/06/2023,5,250,False
+DREAMS COME TO LIFE,George Bondar,Academic Theater of Les Kurbas,02/16/2022,3,300,True
+OBSERVER,Theater on Chinay 19,24/12/2023,6,230.40,True
+IMITATION,Vasyl Rudenko,Theater 19,12/12/2024,3,300,True
+FREE RELATIONSHIPS,Dmitry Shevchuk,Theater on Chinay,02/12/2023,five,230.40,True

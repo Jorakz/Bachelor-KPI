@@ -1,0 +1,9 @@
+[
+ {"ID": 1, "Name": 'SORCERY_POTION', "Author": 'Oleksandr_Melnyk', "Theatre": 'Theater_on_Podil', "Performance date": 'Sat Dec 03 00:00:00 EET 2022', "Quantity of acts": 4, "Ticket price": 100.0, "Music": true },
+ {"ID": 2, "Name": 'SOICHINA_WING', "Author": 'Andriy_Boyko', "Theatre": 'Theater_on_Podil', "Performance date": 'Mon Nov 05 00:00:00 EET 2012', "Quantity of acts": 2, "Ticket price": 140.5, "Music": false },
+ {"ID": 3, "Name": 'SNOW_IN_APRIL', "Author": 'Taras_Kravchenko', "Theatre": 'Theater_19', "Performance date": 'Tue Oct 10 00:00:00 EEST 2023', "Quantity of acts": 4, "Ticket price": 150.75, "Music": true },
+ {"ID": 4, "Name": 'OVERCOAT', "Author": 'Maksym_Oliynyk', "Theatre": 'Theater_of_Taras_Shevchenko', "Performance date": 'Fri Jun 02 00:00:00 EEST 2023', "Quantity of acts": 5, "Ticket price": 250.0, "Music": false },
+ {"ID": 5, "Name": 'DREAMS_COME_TO_LIFE', "Author": 'George_Bondar', "Theatre": 'Academic_Theater of Les Kurbas', "Performance date": 'Sun Apr 02 00:00:00 EEST 2023', "Quantity of acts": 3, "Ticket price": 300.0, "Music": true },
+ {"ID": 6, "Name": 'OBSERVER', "Author": 'Oleksandr_Melnyk', "Theatre": 'Theater_on_Chinay_19', "Performance date": 'Sun Dec 24 00:00:00 EET 2023', "Quantity of acts": 6, "Ticket price": 230.4, "Music": true },
+ {"ID": 7, "Name": 'IMITATION', "Author": 'Vasyl_Rudenko', "Theatre": 'Theater_19', "Performance date": 'Tue Dec 12 00:00:00 EET 2023', "Quantity of acts": 3, "Ticket price": 300.0, "Music": true }
+]

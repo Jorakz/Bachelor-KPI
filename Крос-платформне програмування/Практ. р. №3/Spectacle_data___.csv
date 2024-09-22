@@ -1,0 +1,9 @@
+Name,Author,Theatre,Performance_Date,Quantity_of_acts,Ticket_price,Music,
+SORCERY_POTION,Oleksandr_Melnyk,Theater_on_Podil,3/12/2022,4,200,True,
+SOICHINA_WING,Andriy_Boyko,Theater_on_Podil,5/11/2012,2,140.5,False,
+SNOW_IN_APRIL,Taras_Kravchenko,Theater_19,10/10/2023,4,150.75,True,
+OVERCOAT,Maksym_Oliynyk,Theater_of_Taras_Shevchenko,2/6/2023,5,250,False,
+DREAMS_COME_TO_LIFE,George_Bondar,Academic_Theater of Les Kurbas,2/16/2022,3,300,True,
+OBSERVER,Oleksandr_Melnyk,Theater_on_Chinay_19,24/12/2023,6,230.4,True,
+IMITATION,Vasyl_Rudenko,Theater_19,12/12/2023,3,300,True,
+

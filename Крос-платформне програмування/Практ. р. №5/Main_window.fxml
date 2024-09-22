@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="455.0" prefWidth="756.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+    <children>
+        <Button fx:id="DOWNLOAD_button" layoutX="343.0" layoutY="19.0" mnemonicParsing="false" onAction="#Download_DICOM" prefHeight="35.0" prefWidth="161.0" styleClass="outline-button" text="Завантажити файли" />
+
+        <Button fx:id="LOOP_button" layoutX="342.0" layoutY="60.0" mnemonicParsing="false" onAction="#Looping_Slice" prefHeight="35.0" prefWidth="161.0" styleClass="outline-button" text="Розпочати цикл" />
+
+        <Text fx:id="SHOW_IMAGE_INFO" layoutX="568.0" layoutY="41.0" text="....................................................." wrappingWidth="145.111328125" />
+
+        <VBox alignment="CENTER" layoutX="24.0" layoutY="19.0" prefHeight="411.0" prefWidth="298.0">
+            <Canvas fx:id="CANVAS_WIDGET" height="258.0" width="278.0" />
+            
+            <Label fx:id="IMAGE_VIEW" alignment="BOTTOM_CENTER" contentDisplay="CENTER" wrapText="true">
+            </Label>
+        </VBox>
+        <ListView fx:id="slices_COLLECT_View" layoutX="339.0" layoutY="109.0" onMouseClicked="#Object_Select" prefHeight="277.0" prefWidth="336.0" />
+    </children>
+</AnchorPane>
